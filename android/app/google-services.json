@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259730955183",
+    "project_id": "restaurancitochido",
+    "storage_bucket": "restaurancitochido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259730955183:android:16bb1bf0239ac93d76ad5a",
+        "android_client_info": {
+          "package_name": "com.example.restaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259730955183-jcg7eltgdvf9fq4d4af35tiiv10ppvti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurants",
+            "certificate_hash": "b0a39467d13b8c4a582f7b561a8606d4f850d7b9"
+          }
+        },
+        {
+          "client_id": "259730955183-a0s85dgm26rufhegg0jdd12isjaekkah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwOoDnrDHD0r_pmEy_5gO21DlZ5MO518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259730955183-a0s85dgm26rufhegg0jdd12isjaekkah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
